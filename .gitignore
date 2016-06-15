@@ -1,0 +1,5 @@
+data/dump
+data/database
+data/mongod.log*
+**/bower_components
+**/node_modules

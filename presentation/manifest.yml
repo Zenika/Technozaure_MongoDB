@@ -1,0 +1,6 @@
+---
+applications:
+- name: mongodbbeg
+  memory: 512M
+  host: mongodbbeg
+
